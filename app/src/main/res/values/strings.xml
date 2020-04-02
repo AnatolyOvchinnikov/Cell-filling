@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Клеточное наполнение</string>
+    <string name="generate">Сотворить</string>
+    <string name="cell_alive_name">Живая</string>
+    <string name="cell_alive_description">и шевелится!</string>
+    <string name="cell_dead_name">Мертвая</string>
+    <string name="cell_dead_description">или прикидывается</string>
+    <string name="cell_life_name">Жизнь</string>
+    <string name="cell_life_description">Ку-ку!</string>
+    <string name="title">Клеточное наполнение</string>
+    <string name="lorem_short">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="lorem_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+</resources>
